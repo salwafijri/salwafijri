@@ -1,4 +1,4 @@
-![46528506a0063a82a7a18b2ebc1ef056](https://github.com/user-attachments/assets/dbf0af7a-8e75-42f4-be55-cb74136adcf5)
+![pink](https://github.com/user-attachments/assets/6d03b8dc-1903-43e4-9ae3-ad46b258bd58)
 
 ### Hi, Peeps! I'm Salwa 👋
 
@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning **Information Technology and System Development**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [fijrisalwa@gmail.com](mailto:fijrisalwa@gmail.com)
-- ⚡ Fun fact: **Can't code without something sweet** 🍦
+- ⚡ Fun fact: I'm caffeine intolerant 🚫☕, so i code with sweets instead of coffee! 🍦
