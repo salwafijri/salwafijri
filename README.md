@@ -1,3 +1,5 @@
+![46528506a0063a82a7a18b2ebc1ef056](https://github.com/user-attachments/assets/dbf0af7a-8e75-42f4-be55-cb74136adcf5)
+
 ### Hi, Peeps! I'm Salwa 👋
 
 ### ⚡ About Me
@@ -6,13 +8,3 @@
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [fijrisalwa@gmail.com](mailto:fijrisalwa@gmail.com)
 - ⚡ Fun fact: **Can't code without something sweet** 🍦
-
-### 📊 My GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=salwafijri&show_icons=true&theme=dark&hide_border=false" alt="Salwa Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salwafijri&layout=compact&theme=dark&hide_border=false" alt="Top Langs" />
-</p>
