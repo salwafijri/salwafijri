@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning **Information Technology and System Development**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [fijrisalwa@gmail.com](mailto:fijrisalwa@gmail.com)
+- 🗼 **Paris** is where my heart belongs
 - ⚡ Fun fact: I'm caffeine intolerant 🚫☕, so i code with sweets instead of coffee! 🍦
