@@ -9,6 +9,10 @@
 
 ### 📊 My GitHub Statistics
 
-![Statistik GitHub Salwa](https://github-readme-stats.vercel.app/api?username=salwafijri&show_icons=true&theme=dark&hide_border=false&align=center)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salwafijri&show_icons=true&theme=dark&hide_border=false" alt="Salwa Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salwafijri&layout=compact&theme=dark&hide_border=false&align=center)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salwafijri&layout=compact&theme=dark&hide_border=false" alt="Top Langs" />
+</p>
