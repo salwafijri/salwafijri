@@ -46,7 +46,6 @@
 ###
 
 <div align="left">
-
 <a href="https://www.javascript.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </a>
@@ -136,6 +135,19 @@
 <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40"/>
 </a>
 
+<a href="https://hadoop.apache.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="40"/>
+</a>
+<img width="12" />
+
+<a href="https://netbeans.apache.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" height="40"/>
+</a>
+<img width="12" />
+
+<a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40"/>
+</a>
 </div>
 
 ###
