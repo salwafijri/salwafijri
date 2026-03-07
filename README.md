@@ -7,14 +7,15 @@
 </p>
 
 <h2 align="left">⚡ About Me</h2>
+
 ###
+
 - 😄 I'm a **She/Her**.
 - 🌱 I’m currently learning **Information Technology & System Development**, and exploring several programming languages such as **Python, SQL, and JavaScript**.
 - 💬 Ask me about **random digital stuff**
 - 📫 How to reach me: [fijrisalwa@gmail.com](mailto:fijrisalwa@gmail.com)
 - 🗼 **Paris** is where my heart belongs
 - ⚡ Fun fact: I'm caffeine intolerant 🚫☕, so i code with sweets instead of coffee! 🍦
-###
 
 <br clear="both">
 
