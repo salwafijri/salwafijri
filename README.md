@@ -1,4 +1,7 @@
 ![pink](https://github.com/user-attachments/assets/6d03b8dc-1903-43e4-9ae3-ad46b258bd58)
+###
+*Love-Hate Relationship with coding
+###
 
 <h1 align="left">Hi, Peeps! I'm Salwa 👋<br><br>⚡ About Me</h1>
 
