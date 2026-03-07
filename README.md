@@ -1,10 +1,12 @@
 ![pink](https://github.com/user-attachments/assets/6d03b8dc-1903-43e4-9ae3-ad46b258bd58)
-###
-*Love-Hate Relationship with coding
-###
 
-<h1 align="left">Hi, Peeps! I'm Salwa 👋<br><br>⚡ About Me</h1>
+<h1 align="left">Hi, Peeps! I'm Salwa 👋</h1>
 
+<p align="left">
+<i>I'm both a lover and a hater of coding :)</i>
+</p>
+
+<h2 align="left">⚡ About Me</h2>
 ###
 - 😄 I'm a **She/Her**.
 - 🌱 I’m currently learning **Information Technology & System Development**, and exploring several programming languages such as **Python, SQL, and JavaScript**.
