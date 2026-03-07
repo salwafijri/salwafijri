@@ -3,9 +3,9 @@
 <h1 align="left">Hi, Peeps! I'm Salwa 👋<br><br>⚡ About Me</h1>
 
 ###
-- 😄 **Pronouns:** She/Her
-- 🌱 I’m currently learning **Information Technology and System Development**
-- 💬 Ask me about **Python**
+- 😄 I'm a **She/Her**.
+- 🌱 I’m currently learning **Information Technology & System Development**, and exploring several programming languages such as **Python, SQL, and JavaScript**.
+- 💬 Ask me about **random digital stuff**
 - 📫 How to reach me: [fijrisalwa@gmail.com](mailto:fijrisalwa@gmail.com)
 - 🗼 **Paris** is where my heart belongs
 - ⚡ Fun fact: I'm caffeine intolerant 🚫☕, so i code with sweets instead of coffee! 🍦
@@ -13,10 +13,9 @@
 
 <br clear="both">
 
-<h3 align="left">Connect with me!!</h3>
+<h2 align="left">Connect with me!!</h2>
 
 ###
-
 <div align="left">
   <a href="https://linkedin.com/in/salwa-fijri-896aa134a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -41,11 +40,17 @@
 
 ###
 
-<h3 align="left">tools & experiences</h3>
+<h2 align="left">tools & experiences</h2>
 
 ###
 
 <div align="left">
+
+<a href="https://www.apachefriends.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/xampp/FB7A24" height="40"/>
+</a>
+<img width="12" />
+
 <a href="https://www.javascript.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </a>
