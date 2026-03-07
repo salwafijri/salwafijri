@@ -141,5 +141,5 @@
 ###
 <h2 align="left">My GitHub Stats</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=salwafijri&theme=radical)
 ###
