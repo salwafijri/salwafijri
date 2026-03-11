@@ -82,18 +82,8 @@
 </a>
 <img width="12" />
 
-<a href="https://dart.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-</a>
-<img width="12" />
-
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</a>
-<img width="12" />
-
-<a href="https://flutter.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
 </a>
 <img width="12" />
 
