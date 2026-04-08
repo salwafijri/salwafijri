@@ -67,11 +67,6 @@
 </a>
 <img width="12" />
 
-<a href="https://httpd.apache.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-</a>
-<img width="12" />
-
 <a href="https://www.canva.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
 </a>
@@ -112,11 +107,6 @@
 </a>
 <img width="12" />
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</a>
-<img width="12" />
-
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </a>
@@ -131,10 +121,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </a>
 <img width="12" />
-
-<a href="https://developer.android.com/studio" target="_blank">
-<img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40"/>
-</a>
 
 <a href="https://hadoop.apache.org/" target="_blank">
 <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="40"/>
